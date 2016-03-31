@@ -1,2 +1,2 @@
-# a-bit-of-an-adventure
-A simple 8-bit platformer written in pygame.
+# About
+A Bit of an Adventure is a simple 8-bit platformer written in python 3 and pygame, created by Samuel Kinney and Ian Huang.
