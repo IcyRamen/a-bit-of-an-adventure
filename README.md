@@ -1,5 +1,5 @@
     A Bit of an Adventure is a platforming game.
-    Copyright (C) 2016  Ian Huang, Samuel Kinney, Nipun Chajed.
+    Copyright (C) 2016  Ian Huang, Samuel Kinney, Neil Gupta, Nipun Chajed.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
