@@ -1,5 +1,5 @@
     A Bit of an Adventure is a platforming game.
-    Copyright (C) 2016  Ian Huang, Samuel Kinney
+    Copyright (C) 2016  Ian Huang, Samuel Kinney, Nipun Chajed.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -16,7 +16,7 @@
     Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 
 # About
-A Bit of an Adventure is a simple 8-bit platformer written in python 3 and pygame, created by Samuel Kinney and Ian Huang.
+A Bit of an Adventure is a simple 8-bit platformer written in python 3 and pygame, created by Samuel Kinney, Nipun Chhajed and Ian Huang.
 This game is currently in development, and only works if you have Python 3 and pygame installed. When it gets to beta, it will be frozen using Cx_Freeze to be runnable for Linux, Windows, and OS X.
 
 #Instructions
