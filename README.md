@@ -17,6 +17,7 @@
 
 # About
 A Bit of an Adventure is a simple 8-bit platformer written in python 3 and pygame, created by Samuel Kinney and Ian Huang.
+This game is currently in development, and only works if you have Python 3 and pygame installed. When it gets to beta, it will be frozen using Cx_Freeze to be runnable for Linux, Windows, and OS X.
 
 #Instructions
 Thank you for downloading a bit of an adventure, and please remember this game is in Alpha stage.
