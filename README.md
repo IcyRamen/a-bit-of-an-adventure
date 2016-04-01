@@ -20,8 +20,8 @@ A Bit of an Adventure is a simple 8-bit platformer written in python 3 and pygam
 This game is currently in development, and only works if you have Python 3 and pygame installed. When it gets to beta, it will be frozen using Cx_Freeze to be runnable for Linux, Windows, and OS X.
 
 ### Version and Changelog
-This game is on the following version:<br />
-ID.7
+This game is on the following version:
+ID.7<br />
 The most recent change was the addition of an exit block.
 
 ### Instructions
