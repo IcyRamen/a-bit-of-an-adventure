@@ -21,7 +21,7 @@ This game is currently in development, and only works if you have Python 3 and p
 
 ### Version and Changelog
 This game is on the following version:
-ID.7<br />
+16.4-ID<br />
 The most recent change was the addition of an exit block.
 
 ### Instructions
